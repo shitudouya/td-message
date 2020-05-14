@@ -18,7 +18,7 @@
 | --------- | ---------------------------------------------- | ------- | ------------------------------------------------------------ |
 | type      | 消息类型，默认为info                           | string  | info/success/warning/error                                   |
 | text      | 消息文字                                       | string  | 无                                                           |
-| duration  | 经过多少毫秒后关闭消息提示，默认为2000ms，即2s | number  | 无                                                           |
+| duration  | 经过多少毫秒后关闭消息提示，默认为2000ms，即2s，如果配置为0，则表示不关闭提示 | number  | 无                                                           |
 | positon   | 消息提示的位置，默认为top-center               | string  | top-left/top-center/top-right/bottom-left/bottom-center/bottom-right |
 | showClose | 是否显示关闭按钮，默认开启                     | boolean | true/false                                                   |
 
