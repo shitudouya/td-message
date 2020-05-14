@@ -1,6 +1,6 @@
 ## td-message
 
-**基于jQuery封装的轻量消息提示插件td-message**
+**一款基于jQuery封装的轻量消息提示插件**
 
 ![1589437264390](assets/1589437264390.png)
 
